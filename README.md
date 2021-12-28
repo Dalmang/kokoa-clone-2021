@@ -1,3 +1,3 @@
 # Kokoa clone 2021 Update
 
-CSS got so much better!
+CSS를 공부해보고자 만든 Repogitory
